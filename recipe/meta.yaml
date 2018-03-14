@@ -31,6 +31,7 @@ requirements:
     - networkx >=1.11
     - numpy >=1.10
     - pint >=0.8
+    - pyarrow >=0.8
     - python
     - python-dateutil >=2.6
     - pyyaml >=3.12
